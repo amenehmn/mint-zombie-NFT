@@ -1,7 +1,8 @@
-# Blah Blah
+# zombie NFT
 
-blah blah blah
-
-blah blah:
+Method $ Tools:
+  - openzeppelin libraries
+  - ERC721 token standard
+  - ipfs(Pinata)
 
 
